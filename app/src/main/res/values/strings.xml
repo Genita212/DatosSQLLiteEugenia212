@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatosSQLLiteEugenia212</string>
+    <string name="listar">LISTAR</string>
+    <string name="agrega">AGREGAR</string>
+    <string name="actualiza">Actualizar</string>
+    <string name="elimina">ELIMINAR</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Correo">Correo</string>
+    <string name="Menu">Menu Principal</string>
+    <string name="guardar">Guardar</string>
+</resources>
